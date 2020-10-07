@@ -1,0 +1,20 @@
+#title {
+    text-align: center;
+    
+}
+ #center {
+     background-color: lightblue;
+ }
+
+ #grey1 {
+     color: lightgray;
+ }
+
+ #grey2 {
+    color: lightgray;
+}
+
+
+#sticky-footer {
+    flex-shrink: none;
+  }
